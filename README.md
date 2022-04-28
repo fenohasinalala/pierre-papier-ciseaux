@@ -1,5 +1,5 @@
 # pierre-papie-ciseaux
-Creer le jeu pierre papie ciseaux à l'aide de javascript
+Creer le jeu pierre papier ciseaux à l'aide de javascript
 
 ### Règle du jeu
 chaque joueur choisit entre Pierre, Papier et ciseaux.

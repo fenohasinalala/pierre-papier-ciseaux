@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # pierre-papie-ciseaux
 Le jeu pierre papier ciseaux codé sur Javascript
 
@@ -34,4 +33,3 @@ chaque joueur choisit entre Pierre, Papier et ciseaux.
 ### Amelioration possible:
 - joueur contre joueur (c-a-d deux joueurs local ou même en reseau)
 - ajout d'affichage graphique (illustration par icon et image)
->>>>>>> 0c96842 (Fix - modification readme)

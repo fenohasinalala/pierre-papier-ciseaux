@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # pierre-papie-ciseaux
-Creer le jeu pierre papier ciseaux à l'aide de javascript
+Le jeu pierre papier ciseaux codé sur Javascript
 
 ### Règle du jeu
 chaque joueur choisit entre Pierre, Papier et ciseaux.
